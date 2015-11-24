@@ -1,0 +1,20 @@
+{
+  "name": "mon_in_class",
+  "version": "1.0.0",
+  "description": "Client Side Basic - Bears and Salmons",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "isabellaorgan@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "angular": "^1.4.8",
+    "gulp": "^3.9.0",
+    "webpack-stream": "^2.1.1"
+  }
+}
